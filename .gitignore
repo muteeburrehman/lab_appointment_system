@@ -19,6 +19,7 @@ env/
 *.pyo
 *.db
 db.sqlite3
+django.log
 media/
 staticfiles/
 local_settings.py
